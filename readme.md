@@ -1,0 +1,1 @@
+"Mais moi, j'm'en fous des honneurs, rien à péter, le Graal aussi, rien à péter. Moi, c'est Arthur qui compte. Moi je suis pas un as de la stratégie ou du tir à l'arc, mais je peux me vanter de savoir ce que c'est que d'aimer quelqu'un." 
