@@ -1,0 +1,16 @@
+##############################
+## Java
+##############################
+
+#Ignore le dossier mtk.tmp
+.mtj.tmp/
+
+#Ignore tout les ficher avec les extentions .clas .jar etc..
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+
+#Ignore tout les fichier avec hs_err_pid dans leur nom
+hs_err_pid*
